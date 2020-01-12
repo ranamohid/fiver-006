@@ -739,6 +739,7 @@ input::placeholder {
 }
 
 .hover-card:hover .icon-area{
+    padding-top: 35px ;
     display: block;
     height: 80px;
     width: 100%;
